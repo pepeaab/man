@@ -19442,7 +19442,7 @@
   {
     "ID": 0,
     "Date": "Wednesday, 25 March 2020",
-    "AveragePrice": 1660,
+    "AveragePrice": 1.660,
     "Total Volume": 31275.39,
     "Type1": 1746.29,
     "Type2": 8110.67,
